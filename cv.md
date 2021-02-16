@@ -32,3 +32,37 @@ UZES RostovEnergo
 Software Developer
 
 ## Education
+
+**Higher education**  
+1986 
+TRTI, FAVT, 
+Automated systems for scientific research and experiments
+
+**Professional development, courses**
+2014
+Training
+INTUIT, Fundamentals of software project management
+
+2009
+Training
+INTUI, C# Programming
+
+2007
+Professional retraining
+INTUIT, Software Developing
+
+
+## Skills
+
+* Delphi, Free Pascal, Lazarus
+* C, C++, Qt
+* GIT  
+* PHP, Wordpress
+* Agile, TDD
+
+## Code examples
+
+ [Github @psgtag2019](https://github.com/psgtag2019)
+
+## English level is C1
+*By efset test.*
